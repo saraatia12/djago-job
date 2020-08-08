@@ -1,1 +1,1 @@
-"# djago-job" 
+"# django-job" 
